@@ -10,9 +10,9 @@ const Pricing = () => {
             <Container>
                 <Heading title="OUR PRICING" info="There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration." />
                 <div className="wrapper">
-                    <PricingCard cardTitle="BEGINNER" cardPricing="$45/m" />
-                    <PricingCard cardTitle="EXPERT" cardPricing="$45/m" />
-                    <PricingCard cardTitle="PRO" cardPricing="$45/m" />
+                    <PricingCard cardTitle="BEGINNER" cardPricing="₹500/m" />
+                    <PricingCard cardTitle="EXPERT" cardPricing="₹800/m" />
+                    <PricingCard cardTitle="PRO" cardPricing="₹1000/m" />
                 </div>
             </Container>
         </section>

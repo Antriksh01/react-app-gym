@@ -8,11 +8,11 @@ const Footer = () => {
     return (
         <footer css={styles}>
             <Container>
-                <FooterCard cardHeading="Gym">
+                <FooterCard cardHeading="Shivay Gym">
                     <div className="firstCard">
-                        <p>5th flora, 700/D kings road, green lane New York-1782</p>
-                        <a href="">+10 367 826 2567</a>
-                        <a href="">contact@carpenter.com</a>
+                        <p>gallauwa, garha, jabalpur</p>
+                        <a href="/">+918602161019</a>
+                        <a href="/">contact@shivayfitness.com</a>
                         <div className="social">
                             <i class="fab fa-facebook-f"></i>
                             <i class="fab fa-twitter"></i>
@@ -24,10 +24,10 @@ const Footer = () => {
                 </FooterCard>
                 <FooterCard cardHeading="Useful Links">
                     <div className="usefulLinks">
-                        <a href="">Pricing</a>
-                        <a href="">About</a>
-                        <a href="">Gallery  </a>
-                        <a href="">Contact</a>
+                        <a href="/">Pricing</a>
+                        <a href="/">About</a>
+                        <a href="/">Gallery  </a>
+                        <a href="/">Contact</a>
                     </div>
                 </FooterCard>
                 <FooterCard cardHeading="Subscribe">
@@ -41,7 +41,7 @@ const Footer = () => {
                 </FooterCard>
             </Container>
             <div className="copyright">
-                <p>Copyright ©2020 All rights reserved | This template is made with <i class="far fa-heart"></i> by Colorlib</p>
+                <p>Copyright ©2020 All rights reserved | made with <i class="far fa-heart"></i> by kuldeep</p>
             </div>
         </footer>
     )

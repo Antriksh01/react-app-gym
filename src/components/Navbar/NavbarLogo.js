@@ -1,16 +1,19 @@
 /** @jsx jsx */
-import { css, jsx } from '@emotion/core'
-import GymLogo from "../../images/GymLogo.png";
+import { jsx } from '@emotion/core'
+import trishul1 from "../../images/trishul1.png";
 
 
 const NavbarLogo = () => {
     return (
-        <img src={GymLogo} alt="" />
+        
+        <img src={trishul1} alt="" title='shivay fitness' />
+        
+        
     )
 }
 
-const styles = css`
+// const styles = css`
 
-`
+
 
 export default NavbarLogo;

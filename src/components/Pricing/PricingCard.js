@@ -25,7 +25,7 @@ const PricingCard = ({ cardTitle, cardPricing }) => {
 const styles = css`
     width: 100%;
     max-width: 380px;
-    border: 1px solid red;
+    border: 1px solid limegreen;
     background: rgb(26, 26, 26);
     text-align: center;
     .pricingTitle {
@@ -36,7 +36,7 @@ const styles = css`
             font-size: 1.8rem;
         }
         h5 {
-            color: rgb(255, 20, 20);
+            color: limegreen;
             font-size: 1.7rem;
         }   
     }

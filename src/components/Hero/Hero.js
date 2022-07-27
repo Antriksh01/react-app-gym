@@ -2,7 +2,8 @@
 import { css, jsx } from '@emotion/core'
 import Container from "../Global/Container";
 import Button from "../Global/Button/Button";
-import HeroImage from "../../images/HeroImage.png";
+// import HeroImage from "../../images/HeroImage.png";
+import shivigymhero from "../../images/shivigymhero.jpg";
 
 const Hero = () => {
     return (
@@ -25,7 +26,7 @@ const styles = css`
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url('${HeroImage}') no-repeat center/cover;
+  background: url('${shivigymhero}') no-repeat center/cover;
   position: relative;
   .overlay {
       position: absolute;

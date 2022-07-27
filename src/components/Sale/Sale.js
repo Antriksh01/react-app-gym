@@ -4,7 +4,8 @@ import Container from "../Global/Container";
 import Button from "../Global/Button/Button";
 
 // Background Image
-import SaleBg from "../../images/Sale.png";
+// import SaleBg from "../../images/Sale.png";
+import tyrepush1 from "../../images/tyrepush1.jpg"
 
 const Sale = () => {
     return (
@@ -24,7 +25,7 @@ const Sale = () => {
 
 const styles = css`
     width: 100%;
-    background: url('${SaleBg}') no-repeat center/cover;
+    background: url('${tyrepush1}') no-repeat center/cover;
     .container {
         padding: 200px 0;
         display: flex;

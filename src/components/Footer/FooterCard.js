@@ -14,7 +14,7 @@ const styles = css`
     width: 100%;
     max-width: 300px;
     h3 {
-        color: red;
+        color: limegreen;
         font-size: 1.6rem;
     }
 `

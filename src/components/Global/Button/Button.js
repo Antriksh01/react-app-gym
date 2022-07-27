@@ -9,7 +9,7 @@ const Button = () => {
 
 const styles = css`
     padding: 18px 50px;
-    background: rgb(255, 20, 20);
+    background: limegreen;
     border: none;
     color: #fff;
     text-transform: uppercase;

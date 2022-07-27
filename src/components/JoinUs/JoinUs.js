@@ -1,8 +1,9 @@
 /** @jsx jsx */
 import { css, jsx } from '@emotion/core'
-import JoinUs1 from "../../images/JoinUs1.png";
+// import JoinUs1 from "../../images/JoinUs1.png";
 import JoinUs2 from "../../images/JoinUs2.png";
 import JoinUsInfo from "./JoinUsInfo";
+import girlbox from "../../images/girlbox.jpg"
 
 const JoinUs = () => {
     return (
@@ -34,7 +35,7 @@ const styles = css`
             justify-content: center;
             align-items: center;
             transition: all .8s;
-            background: url('${JoinUs1}') no-repeat center/cover;
+            background: url('${girlbox}') no-repeat center/cover;
             &:hover {
                 transform: scale(1.2);
             }
