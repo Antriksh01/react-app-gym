@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-gym-website/static/css/main.c88eb0c2.chunk.css",
+    "main.js": "/react-gym-website/static/js/main.11d961bb.chunk.js",
+    "main.js.map": "/react-gym-website/static/js/main.11d961bb.chunk.js.map",
+    "runtime-main.js": "/react-gym-website/static/js/runtime-main.0d42a81d.js",
+    "runtime-main.js.map": "/react-gym-website/static/js/runtime-main.0d42a81d.js.map",
+    "static/js/2.d818b3c0.chunk.js": "/react-gym-website/static/js/2.d818b3c0.chunk.js",
+    "static/js/2.d818b3c0.chunk.js.map": "/react-gym-website/static/js/2.d818b3c0.chunk.js.map",
+    "index.html": "/react-gym-website/index.html",
+    "precache-manifest.cb3e0c62292b2ea3c014cb1bd7432a8c.js": "/react-gym-website/precache-manifest.cb3e0c62292b2ea3c014cb1bd7432a8c.js",
+    "service-worker.js": "/react-gym-website/service-worker.js",
+    "static/css/main.c88eb0c2.chunk.css.map": "/react-gym-website/static/css/main.c88eb0c2.chunk.css.map",
+    "static/js/2.d818b3c0.chunk.js.LICENSE.txt": "/react-gym-website/static/js/2.d818b3c0.chunk.js.LICENSE.txt",
+    "static/media/HeroImage1.png": "/react-gym-website/static/media/HeroImage1.d949e940.png",
+    "static/media/JoinUs2.png": "/react-gym-website/static/media/JoinUs2.fe8b35e7.png",
+    "static/media/features1.svg": "/react-gym-website/static/media/features1.83e019f1.svg",
+    "static/media/features2.svg": "/react-gym-website/static/media/features2.9b99e187.svg",
+    "static/media/features3.svg": "/react-gym-website/static/media/features3.f93ab236.svg",
+    "static/media/features4.svg": "/react-gym-website/static/media/features4.a609d5e7.svg",
+    "static/media/gallery.png": "/react-gym-website/static/media/gallery.11dc41bb.png",
+    "static/media/gallery1.png": "/react-gym-website/static/media/gallery1.7ee3bdc1.png",
+    "static/media/gallery2.png": "/react-gym-website/static/media/gallery2.dabd4b71.png",
+    "static/media/gallery3.png": "/react-gym-website/static/media/gallery3.688011ae.png",
+    "static/media/gallery4.png": "/react-gym-website/static/media/gallery4.ee2b9bbb.png",
+    "static/media/gallery5.png": "/react-gym-website/static/media/gallery5.27bfe886.png",
+    "static/media/girlbox.jpg": "/react-gym-website/static/media/girlbox.4a86a33c.jpg",
+    "static/media/shivigymhero.jpg": "/react-gym-website/static/media/shivigymhero.1872b83d.jpg",
+    "static/media/summerBg.webp": "/react-gym-website/static/media/summerBg.b969262b.webp",
+    "static/media/trainer.png": "/react-gym-website/static/media/trainer.2649ade7.png",
+    "static/media/trainer2.png": "/react-gym-website/static/media/trainer2.0f869951.png",
+    "static/media/trainer3.png": "/react-gym-website/static/media/trainer3.69074cb0.png",
+    "static/media/tyrepush1.jpg": "/react-gym-website/static/media/tyrepush1.5c144982.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d42a81d.js",
+    "static/js/2.d818b3c0.chunk.js",
+    "static/css/main.c88eb0c2.chunk.css",
+    "static/js/main.11d961bb.chunk.js"
+  ]
+}
